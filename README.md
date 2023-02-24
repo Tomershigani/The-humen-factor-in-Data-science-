@@ -1,4 +1,4 @@
-# The-humen-factor-in-Data-science-
+# The humen factor in Data science
 In this project, we conducted an online questionnaire among 70 male and female participants in the age range of 20-40 to
 investigate whether there is a connection between belief in stereotypes about the LGBTQ community and homophobia.
 We tested both positive and negative stereotypes, such as the belief that "partners in gay and lesbian relationships are less happy than partners in straight relationships" 
