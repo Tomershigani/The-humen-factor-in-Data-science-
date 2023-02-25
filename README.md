@@ -6,7 +6,7 @@ and the belief that "gays and lesbians are more artistic than straight people." 
 homophobia, such as "homosexuality is immoral."
 
 Using Python, we analyzed the results of the questionnaire, assigning each participant a grade that ranked their degree of belief in negative
-stereotypes, degree of belief in positive stereotypes, and homophobia rank. We then used linear regression to explore the correlations between these factors.
+stereotypes, degree of belief in positive stereotypes, and homophobia rank. We then used statistical methods such as linear regression to explore the correlations between these factors.
 
 This project highlights the importance of considering the human factor in data science, particularly when it comes to issues of bias and
 discrimination. By examining the beliefs and attitudes of participants, we gain a better understanding of the social and cultural factors
